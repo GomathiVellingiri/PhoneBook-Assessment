@@ -6,8 +6,7 @@ Post Method
     "firstName":"Anu",
     "lastName":"saran",
     "emailId":"anusaran@gmail.com"
-   
-}
+    }
 -----------------------------------------------------------------------------------
 Save User Contact Details:
 Post Method
